@@ -1,7 +1,6 @@
 <div align="center">
   
   <!-- Header Image -->
-  <img src="https://media.giphy.com/media/dummy/giphy.gif" alt="Coding Gif" width="100%" />
   
   <h1 align="center">Hi there, I'm <a href="https://github.com/pieby2" target="_blank">pieby2</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
