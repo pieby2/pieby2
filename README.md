@@ -1,12 +1,62 @@
-# 💫 About Me:
-👯 I’m looking to collaborate on<br><br>    open-source data engineering tools, medical imaging research, or scalable ETL pipelines using Apache Airflow and AWS.<br><br>🤝 I’m looking for help with<br><br>    exploring advanced architectures for multimodal image fusion and optimizing large-scale distributed training workflows.<br><br>🌱 I’m currently learning<br><br>    advanced Infrastructure as Code (Terraform) patterns and state-of-the-art Transformer architectures for computer vision.<br><br>💬 Ask me about<br><br>    PyTorch, building CI/CD pipelines for Python packages, Medical Image Fusion, and missing data imputation strategies.
+# Prakhar Pragyan Chaubey
 
+**Final-year Computer Science student | Machine Learning Engineer | Computer Vision & Data Engineering**
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/piebyepsilon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prakharpragyan1000@gmail.com) 
+📍 Ghaziabad, Uttar Pradesh, India  
+📞 +91-8853511579  
+📧 prakharpragyan1000@gmail.com  
+🔗 [GitHub](https://github.com/pieby2) • [LinkedIn](https://linkedin.com/in/prakhar-b045b91ab)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+---
 
+## Professional Summary
+Final-year Computer Science student and Machine Learning Engineer with hands-on experience in computer vision, on-device ML, and end-to-end system deployment. Proficient in Python, PyTorch, TensorFlow, FastAPI, and Docker. Published IEEE researcher with production-deployed systems on AWS EKS. Seeking full-time ML/AI engineering roles in deep learning, computer vision, or data engineering.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Skills
+- **Programming Languages:** Python, SQL, Bash/Shell, JavaScript
+- **Machine Learning & AI:** PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenCV, NLP, LLMs, RLHF, SFT, TensorFlow Lite, MobileNetV3, ResNet, YOLO, U-Net, ArcFace
+- **Backend & APIs:** FastAPI, REST APIs, Client-Server Architecture
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Qdrant
+- **Data Engineering:** Pandas, NumPy, Apache Airflow, dbt
+- **Cloud & DevOps:** AWS (S3, Redshift, EKS), Docker, Terraform, Kubernetes, GitHub Actions, CI/CD
+
+## Experience
+### Machine Learning Engineer — Mayonix Innovation (Remote)
+**February 2026 – Present**
+- Build on-device machine learning features for a React Native mobile app using TensorFlow Lite, MobileNetV3-Small, and U-Net segmentation models.
+- Implement image preprocessing pipelines, clothing classification, background removal, and RGB color extraction for real-time mobile inference.
+- Optimize model loading and inference latency to maintain responsive UX with offline-first execution and GPU delegate fallback on Android and iOS.
+- Design a feedback loop pipeline that captures user corrections for continuous model improvement.
+
+### Computer Vision Engineer (Freelance) — Independent (Remote)
+**September 2025 – January 2026**
+- Designed a multimodal student verification system combining face detection and speech capture, reducing proxy attendance via automated real-time identity checks.
+- Built a cattle biometric verification system using ResNet, ArcFace, YOLO, and GrabCut; achieved **100% closed-set accuracy** with **0.5% false positive rate**.
+- Developed an Indian dress pattern search engine using image embeddings and classical computer vision for top-5 similarity recommendations.
+- Deployed the recommendation application on AWS for scalable image-based search.
+
+## Projects
+### F1 Race Predictor
+**FastAPI, scikit-learn, FastF1, React, Docker, AWS EKS**
+- Built a Formula 1 race prediction system ingesting historical lap times, qualifying results, sprint data, circuit features, and weather data from multiple sources.
+- Engineered 170+ features and applied walk-forward cross-validation to avoid temporal leakage and improve generalization.
+- Trained gradient boosting ensemble models for podium classification and finishing position prediction; deployed full stack on AWS EKS.
+
+### CM — Smart Flashcard Engine
+**FastAPI, React, Vite, PostgreSQL, Redis, Docker, Groq, PyMuPDF, OCR**
+- Built an AI-powered flashcard platform that converts uploaded PDFs into structured decks using LLM generation via Groq.
+- Implemented PDF extraction with PyMuPDF and OCR fallback for scanned documents; automated flashcard generation via structured prompting.
+- Delivered spaced repetition scheduling, concept tagging, analytics dashboards, and full CRUD deck management with PostgreSQL + Redis caching.
+
+## Publications
+- **R. K. Arya, P. P. Chaubey, et al. (2025).** *Machine Learning-Ready Computer-Aided Butler Matrix Designer.* IEEE Workshop on Antenna and Microwave Systems (WAMS), Chennai, India.
+- **P. P. Chaubey, et al. (2025).** *Log-Gabor and Wavelet-Based Transform for Enhanced CT-MRI Image Fusion.* INCSTIC-2025 (Accepted).
+
+## Education
+### Bachelor of Technology in Computer Science
+**ABES Engineering College**, Ghaziabad, Uttar Pradesh, India  
+**Expected July 2026**
+
+### Higher Secondary Certificate (Class XII)
+**Army Public School**, Lucknow, Uttar Pradesh, India  
+**2022**
